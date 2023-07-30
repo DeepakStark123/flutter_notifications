@@ -1,0 +1,3 @@
+const String apiKeyUrl = 'b58c75af3e894e50ababf0ea320c182f';
+const String accessTokenUrl =
+    'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNThjNzVhZjNlODk0ZTUwYWJhYmYwZWEzMjBjMTgyZiIsInN1YiI6IjY0YmU5MjI5MGVkMmFiMDBjNWU0Mzc5NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.w_cO5c0uX6Lr1Ot1toF3ExyO6KiAKB6iFyejKN3TIJ4';
